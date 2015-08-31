@@ -1,2 +1,2 @@
 server:
-	hugo server -w --buildDrafts
+	hugo server -w --buildDrafts --config=master.toml

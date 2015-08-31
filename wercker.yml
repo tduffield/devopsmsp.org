@@ -29,6 +29,7 @@ build:
     - arjen/hugo-build@1.4.0:
         version: 0.14
         theme: landing-page
+        config: $WERCKER_GIT_BRANCH.toml
 deploy:
   steps:
     - wercker/s3sync@2.0.3:
