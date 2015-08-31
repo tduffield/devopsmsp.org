@@ -1,0 +1,23 @@
+baseurl = "http://devopsmsp.org"
+languageCode = "en-us"
+title = "DevOps MSP"
+theme = "landing-page"
+
+[params]
+  description = "DevOps practitioners from the greater Minneapolis/St. Paul area"
+  googleAnalytics = "UA-66934322-1"
+
+[[params.social]]
+  title = "twitter"
+  icon = "twitter"
+  url = "https://twitter.com/devopsmsp"
+
+[[params.social]]
+  title = "meetup"
+  icon = "users"
+  url = "/meetup"
+
+[[params.social]]
+  title = "slack"
+  icon = "slack"
+  url = "/slack"
