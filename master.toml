@@ -20,4 +20,4 @@ theme = "landing-page"
 [[params.social]]
   title = "slack"
   icon = "slack"
-  url = "/slack"
+  url = "https://devopsmsp.slack.com"
